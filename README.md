@@ -1,1 +1,1 @@
-# SQL-Project Logistics and supplly chain Management
+# SQL-Project Logistics and supply chain Management
